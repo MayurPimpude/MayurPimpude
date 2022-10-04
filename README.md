@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mayurpimpude@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ddxWDzc8ki1lAWpZQeMD32CR23yz0-CP/view?usp=sharing](https://drive.google.com/file/d/1ddxWDzc8ki1lAWpZQeMD32CR23yz0-CP/view?usp=sharing)
+- 📄 Know about my experiences [shorturl.at/bcOY2](https://drive.google.com/file/d/1ddxWDzc8ki1lAWpZQeMD32CR23yz0-CP/view?usp=sharing)
 
 - ⚡ Fun fact **I am funny**
 
