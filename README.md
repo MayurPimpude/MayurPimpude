@@ -1,4 +1,4 @@
-[![MasterHead](https://scitechdaily.com/images/AI-Technology-Creation-Concept.gif)](https://rishavchanda.io)
+[![MasterHead](https://miro.medium.com/max/1400/1*uCVjc-xE2uzh2hhtKURh2w.jpeg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mayur Pimpude</h1>
 <h3 align="center">A passionate Machine Learning Student from India</h3>
 
