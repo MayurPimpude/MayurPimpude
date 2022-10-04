@@ -1,6 +1,7 @@
 [![MasterHead](https://miro.medium.com/max/1400/1*uCVjc-xE2uzh2hhtKURh2w.jpeg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mayur Pimpude</h1>
 <h3 align="center">A passionate Machine Learning Student from India</h3>
+<img alt="ai" width="400" src="https://scitechdaily.com/images/AI-Technology-Creation-Concept.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurpimpude&label=Profile%20views&color=0e75b6&style=flat" alt="mayurpimpude" /> </p>
 
