@@ -1,3 +1,12 @@
+
+###
+
+<h1 align="center">Hi 👋, I'm Mayur Pimpude</h1>
+
+###
+
+<h2 align="center">MERN & ML Enthusiast | Fusing Innovation in Full Stack Development and Machine Learning</h2>
+
 # 💫 About Me:
 👋 I build smart AI tools !<br>🧠 Mixing travel, data, and automation for cool real-world hacks.<br>🏡 Need price checks or planning help? My bots got you.<br>💻 Clean code, clever scripts, and lots of experiments.<br>🚀 Let’s make tech work smarter – one repo at a time!
 
